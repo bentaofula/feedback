@@ -1,19 +1,41 @@
 {
     "feedback": [
       {
-        "id": 1,
-        "rating": 10,
-        "text": "This is feedback item 1 coming from the backend"
+        "id": "1",
+        "rating": 5,
+        "comment": "This app is amazing!",
+        "timestamp": "2023-05-04T12:34:56.789Z"
       },
       {
-        "id": 2,
-        "rating": 8,
-        "text": "This is feedback item 2 coming from the backend"
+        "id": "2",
+        "rating": 4,
+        "comment": "Pretty good, but could use some improvements.",
+        "timestamp": "2023-05-04T13:22:45.123Z"
       },
       {
-        "text": "Updated all packages to latest",
-        "rating": 6,
-        "id": 4
+        "id": "3",
+        "rating": 3,
+        "comment": "It's okay, but nothing special.",
+        "timestamp": "2023-05-04T14:10:32.456Z"
+      },
+      {
+        "id": "4",
+        "rating": 2,
+        "comment": "Not great, needs a lot of work.",
+        "timestamp": "2023-05-04T15:58:21.789Z"
+      },
+      {
+        "id": "5",
+        "rating": 1,
+        "comment": "Terrible app, do not recommend.",
+        "timestamp": "2023-05-04T16:46:10.234Z"
+      },
+      {
+        "id": "6",
+        "rating": 5,
+        "comment": "The best app I've ever used!",
+        "timestamp": "2023-05-04T17:34:05.678Z"
       }
     ]
   }
+  
